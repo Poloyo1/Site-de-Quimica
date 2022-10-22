@@ -16,7 +16,7 @@ html {
 .Menu{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    
     padding: 5px 10%;
     padding-right: 5%;
     background-color: #dfdfdf;
